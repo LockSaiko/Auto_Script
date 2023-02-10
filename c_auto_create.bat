@@ -1,0 +1,1 @@
+cmd /k "activate auto&&pyinstaller -F -w AutoGui.py -i k.ico&&exit"
